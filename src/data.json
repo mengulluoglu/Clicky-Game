@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "name": "Brainy Smurf",
+      "image": "/assets/images/brainysmurf.png",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "Clumsy Smurf",
+      "image": "/assets/images/clumsysmurf.png",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Greedy Smurf",
+      "image": "/assets/images/greedysmurf.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Hefty Smurf",
+      "image": "/assets/images/heftysmurf.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Jokey Smurf",
+      "image": "/assets/images/jokeysmurf.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "Papa Smurf",
+      "image": "/assets/images/papasmurf.png",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Smurf Girl",
+      "image": "assets/images/smurfgirl.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Vanity Smurf",
+      "image": "assets/images/vanitysmurf.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Gargamel",
+      "image": "assets/images/gargamel.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Lazy Smurf",
+      "image": "assets/images/lazysmurf.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "Grandpa Smurf",
+      "image": "assets/images/grandpasmurf.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Craftman Smurf",
+      "image": "assets/images/craftmansmurf.jpg",
+      "isClicked": false
+    }
+  ]
